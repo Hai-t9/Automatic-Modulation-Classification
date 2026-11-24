@@ -6,5 +6,5 @@ data/*.tar.bz2
 .venv/
 **/__pycache__/
 *.py[cod]
-machine_learning/outputs/figures/*.png
-machine_learning/outputs/reports/*.json
+code/outputs/figures/*.png
+code/outputs/reports/*.json

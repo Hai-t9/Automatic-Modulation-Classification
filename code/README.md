@@ -24,7 +24,7 @@ Python 3.10 or newer is recommended. The pickle is large (about 612 MB), so allo
 
 ## Explore the dataset
 
-From `machine_learning/`:
+From `code/`:
 
 ```bash
 python scripts/describe_data.py
