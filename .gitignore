@@ -1,0 +1,10 @@
+# Large local RadioML dataset artifacts (keep the license tracked).
+data/*.pkl
+data/*.tar.bz2
+
+# Python environments, bytecode, and generated analysis outputs.
+.venv/
+**/__pycache__/
+*.py[cod]
+machine_learning/outputs/figures/*.png
+machine_learning/outputs/reports/*.json
